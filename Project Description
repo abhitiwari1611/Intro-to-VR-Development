@@ -1,0 +1,17 @@
+### 🚀 Minimalist Work Desk Setup – Blender Project
+
+**Overview:**
+Designed and rendered a realistic minimalist desk setup using Blender, focusing on lighting, materials, and composition to achieve a clean product-style visual.
+
+**Key Features:**
+
+* Applied physically based materials (PBR) for realistic surface appearance
+* Implemented HDRI environment lighting along with area lights for soft shadows and depth
+* Configured camera with depth of field to create a product-style composition
+* Rendered using Cycles engine with denoising for high-quality output
+
+**Tools & Technologies:**
+Blender, Cycles Render Engine, HDRI Lighting
+
+**Outcome:**
+Produced high-quality renders showcasing a clean and visually balanced workspace scene, demonstrating understanding of 3D modeling fundamentals, lighting, and rendering techniques.
